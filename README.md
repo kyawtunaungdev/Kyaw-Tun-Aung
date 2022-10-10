@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kyaw-Tun-Aung
 - 👀 I’m Web Developer.
 - 🌱 I’m currently learning coding and programming.
-- 💞️ I’m looking to collaborate on start-up.
